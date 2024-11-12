@@ -1,0 +1,19 @@
+Guest account management is the process of administering and managing user accounts and access for external guests. Guest accounts typically provide a set of default permissions and privileges for non-registered users of a system or service. Here are some aspects of guest account management: 
+ 
+Adding guest users
+Guest users can be password authenticated to allow limited access to an organization. 
+ 
+Managing external users
+Some applications, like YouTrack Server, allow users to enable access for anonymous users through a guest account. 
+ 
+Delegating guest user management
+Some applications, like Microsoft 365, allow application owners to add guest users directly to applications they want to share. 
+ 
+Managing guest user lifecycle
+Identity Governance can be used to manage the lifecycle of guest accounts. 
+ 
+Cleaning up guest accounts
+Azure Automation and scripting logic can be used to clean up guest accounts. 
+
+
+The Guest Account Management Solution offers lifecycle management of third-party organizations and delegated administration for those organizations' users.
